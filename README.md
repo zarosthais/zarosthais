@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 📕 Estudante de Análise e Desenvolvimento de Sistema.
+
 🌱 Atualmente estou estudando JavaScript e me aprofundando em CSS3.
+
 💻 Interessada em UX/UI.
+
 😄 Em meu tempo livre eu gosto de ler, assitir séries e filmes - normalmente de suspense. Além disso cuido de duas fanpages e com isso aprofundo meu conhecimento em edição e criação de imagens com o Canva. 
