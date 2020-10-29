@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Estudante de Análise e Desenvolvimento de Sistema.
+📕 Estudante de Análise e Desenvolvimento de Sistemas.
 
 🌱 Atualmente estou estudando JavaScript e me aprofundando em CSS3.
 
