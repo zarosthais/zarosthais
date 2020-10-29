@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello, meu nome é Thaís! 👋
 
 <!--
 **zarosthais/zarosthais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning JavaScript, VueJS and deepen in CSS.
+📕 Estudante de Análise e Desenvolvimento de Sistema.
+🌱 Atualmente estou estudando JavaScript e me aprofundando em CSS3.
+💻 Interessada em UX/UI.
+😄 Em meu tempo livre eu gosto de ler, assitir séries e filmes - normalmente de suspense. Além disso cuido de duas fanpages e com isso aprofundo meu conhecimento em edição e criação de imagens com o Canva. 
