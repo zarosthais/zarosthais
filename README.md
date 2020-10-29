@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 💻 Interessada em UX/UI.
 
-😄 Em meu tempo livre eu gosto de ler, assistir séries e filmes - preferencialmente de suspense. Além disso cuido de duas fanpages e com isso aprofundo meu conhecimento em edição e criação de imagens com o Canva. 
+😄 Em meu tempo livre eu gosto de ler, assistir séries e filmes - preferencialmente de suspense. Além disso cuido de duas fanpages e com isso aprofundo meu conhecimento em edição e criação de imagens com o Canva.
