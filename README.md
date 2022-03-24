@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Estudante de Análise e Desenvolvimento de Sistemas.
+📕 Formada Análise e Desenvolvimento de Sistemas.
 
-🌱 Atualmente estou estudando JavaScript e me aprofundando em CSS3.
+🔭 Atualmente eu trabalho com .NET C#.
 
 💻 Interessada em UX/UI.
 
