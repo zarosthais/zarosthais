@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📕 Formada Análise e Desenvolvimento de Sistemas.
+📕 Formada em Análise e Desenvolvimento de Sistemas.
 
 🔭 Atualmente eu trabalho com .NET C#.
 
