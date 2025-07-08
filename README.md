@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🔭 Atualmente eu trabalho com .NET C#.
 
-💻 Interessada em UX/UI.
-
 😄 Em meu tempo livre eu gosto de ler, assistir séries e filmes - preferencialmente de suspense. Além disso cuido de duas fanpages e com isso aprofundo meu conhecimento em edição e criação de imagens com o Canva.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-zaros-658730170/)
