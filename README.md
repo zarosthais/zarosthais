@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 🔭 Atualmente eu trabalho com .NET C#.
 
-😄 Em meu tempo livre eu gosto de ler, assistir séries e filmes - preferencialmente de suspense. Além disso cuido de duas fanpages e com isso aprofundo meu conhecimento em edição e criação de imagens com o Canva.
+😄 Em meu tempo livre eu gosto de ler, assistir séries e filmes - preferencialmente de suspense.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-zaros-658730170/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/tha%C3%ADs-zaros)
